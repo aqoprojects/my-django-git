@@ -1,1 +1,1 @@
-print("Sync test")
+print("From Github")
