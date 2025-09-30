@@ -1,1 +1,1 @@
-print("Login works!")
+print("Sync test")
