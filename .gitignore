@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+task.txt
+yoo/
+clone-tes/
