@@ -73,4 +73,15 @@
 - ignore a file 
 - create a new txt file, add and commit 
 - ignore the committed file without deleting it 
--
+
+
+
+- add print Half done.. in hello.py
+- stash it 
+- show all stash 
+- aplly it 
+- CMD how to apply specific stash 
+- CMD how to delete a stash / how to apply and delete a stash oneline 
+- CMD how to cancel merge 
+- Create a release branch v1.1 
+
