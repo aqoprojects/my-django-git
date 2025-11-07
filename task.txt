@@ -1,0 +1,76 @@
+- display git version
+- display all git configuration 
+- create a folder nf initialize git 
+- cretae a file hello.py, write print "hello git!"
+- check tracked file 
+- add and commit hello.py
+- show git log in a line 
+- chnage hello.py print to Hi git! 
+- check for tracked files 
+- chack for differences 
+- revert hello.py back to it former print message 
+
+
+- check current branches
+- create and switch to a new branche "feature-login" 
+- add print message "Login works!"
+- add and commit hello.py 
+- show git log in a line 
+- switch back to master 
+- check all branches
+- create and new branch "newb" and delete it  
+
+
+- switch to master
+- merge feature-login branch to master 
+- show git log graph in one line
+
+
+- goto github, create a new repository and get link 
+- add new remote with repo link 
+- display all remotes 
+- push your repo to github
+-------Optional 
+- clone the github repo 
+- add and commit "test clone" 
+- push to github
+-------
+
+
+
+- add print Sync test to hello.py 
+- add and commit hello.py 
+- push to github
+- togo github, add print "from Github" to hello.py
+- pull repo from github
+- fetch repo from github 
+- check log of remote master and local matser
+
+
+
+- on master, pull remote repo 
+- switch to feature-login 
+- move feature-login last commit to HEAD of git commit (to the top, latest)
+- show git log graph in one line 
+- push to github 
+- CMD how to terminate line 3 
+- CMD how to continue line 3
+- CMD how to interactive with line 3
+
+
+
+- check commit hash for latest git commit 
+- version it v1.0 based on commit hash and message "first django released"
+- list all versions
+- show all commit in a specific version 
+- push a specific version to github 
+- CMD how to push all version to github
+- delete a version locally and remote
+
+
+
+- create a gitignore file 
+- ignore a file 
+- create a new txt file, add and commit 
+- ignore the committed file without deleting it 
+-
