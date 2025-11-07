@@ -85,3 +85,19 @@
 - CMD how to cancel merge 
 - Create a release branch v1.1 
 
+
+
+- create a develop branch (add some file)
+- push it 
+- create a feature branch e.g feature/login /register /addtocart and its gets it repo from develop
+- switch to develop and merge feature/...
+- create branch release/v1.1 from develop
+- create hotfix/bug1 from master 
+- merger master to develop
+
+
+
+- cherrypick a commit (fix a bug in a branch, cherypick it to another branch)
+- CMD how to cancel, resume cherrypick
+- just work with bisect it not really something special like that 
+- 
