@@ -100,4 +100,15 @@
 - cherrypick a commit (fix a bug in a branch, cherypick it to another branch)
 - CMD how to cancel, resume cherrypick
 - just work with bisect it not really something special like that 
-- 
+
+
+
+- display HEAD commit history 
+- in matser, add print message , commit 
+- go back to previous commit  (files changes)
+- cherrypick or go back to the commit before going back to previous commit
+- create a branch and merger a commit hash state (repo files at the commited time) to it
+
+
+
+
